@@ -12,4 +12,5 @@ Developed an online hotel booking website using HTML, CSS, JavaScript, and PHP. 
 ## Reserve (snap 01)
 ![image](https://github.com/user-attachments/assets/5977adc1-670b-4a84-a4ae-88b2e2f672ad)
 ## Resesrve (snap 02)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/54310ef7-4ae0-451e-8627-67725ee63e72)
+
